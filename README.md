@@ -19,7 +19,7 @@ Through this program, I really enjoy cleaning, modeling, and
 analyzing client data, creating slides to communicate findings, and presenting insights back to the client.
 
 # Here is a snippet of What I did:
-![Data Model](https://github.com/tasnimxpress/Forage/blob/main/Data%20model.png)
+![Data Model](https://github.com/tasnimxpress/Forage/blob/main/Images/Data%20model.png)
 
 However, I used the Content, Reaction, and Reaction type table to complete this project.
 ## To create the dashboard I used:
@@ -37,7 +37,7 @@ However, I used the Content, Reaction, and Reaction type table to complete this 
 - How many reactions are there to the most popular category?
 - What was the month with the most posts? etc.
 
-![Dashboard](https://github.com/tasnimxpress/Forage/blob/main/Dashboard.png)
+![Dashboard](https://github.com/tasnimxpress/Forage/blob/main/Images/Dashboard.png)
 
 # Based on my analysis,
 - Animals consistently lead in popularity, indicating a strong, sustained user interest, significantly leading with a 74,965 reaction score.
