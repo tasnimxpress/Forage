@@ -1,7 +1,6 @@
-# Data Analytics and Visualization Job Simulation
+# Data Analytics and Visualization
 
-## Accenture North America Data Analytics and Visualization Job Simulation on
-### Forage - August 2024
+## Accenture North America Data Analytics and Visualization Job Simulation on Forage - August 2024
 
  * Completed a simulation focused on advising a hypothetical social media client
    as a Data Analyst at Accenture
@@ -23,10 +22,24 @@ analyzing client data, creating slides to communicate findings, and presenting i
 ![Data Model](https://github.com/tasnimxpress/Forage/blob/main/Data%20model.png)
 
 However, I used the Content, Reaction, and Reaction type table to complete this project.
+## To create the dashboard I used:
+- SUM
+- SUMIFS
+- XLOOKUP
+- COUNTIF
+- PIVOT TABLE
+- CHARTS & SLICER
+
+# This Dashboard includes information like:
+- How many unique categories are there?
+- What are the top 5 categories?
+- What are the less popular categories?
+- How many reactions are there to the most popular category?
+- What was the month with the most posts? etc.
 
 ![Dashboard](https://github.com/tasnimxpress/Forage/blob/main/Dashboard.png)
 
-# Based on our analysis,
+# Based on my analysis,
 - Animals consistently lead in popularity, indicating a strong, sustained user interest, significantly leading with a 74,965 reaction score.
 
 - Science and Technology are stable favorites, showing increasing interest in technology.
@@ -34,6 +47,8 @@ However, I used the Content, Reaction, and Reaction type table to complete this 
 - We saw Healthy Eating increased engagement in 2020, possibly due to the pandemic. However, food was always there in the top 5. You can use this insight to create a campaign with food and healthy eating to boost user engagement.
 
 - The appearance of Culture in 2021 indicates shifting interests and trends over time.
+
+  
 
 
 
